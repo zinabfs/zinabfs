@@ -1,4 +1,9 @@
-### j'aime bien le javascript et les jeux vidéos 
+
+<img src="img/marty.gif" alt="marty from animal crossing">
+
+### i like javascript and videogames
+
+<img src="img/mirti.gif" alt="bluebear from animal crossing">
 
 
 <!--
