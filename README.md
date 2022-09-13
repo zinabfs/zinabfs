@@ -1,5 +1,5 @@
 
-<img src="img/marty.gif" alt="marty from animal crossing">
+<img src="img/marty.gif" alt="marty from animal crossing" height="80">
 
 ### i like javascript and videogames
 
