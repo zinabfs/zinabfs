@@ -1,7 +1,6 @@
+ <img src="img/marty.gif" alt="marty from animal crossing">
 
-
-### <img src="img/marty.gif" alt="marty from animal crossing" height="80">
- i like javascript and videogames
+### i like javascript and videogames
 
 <img src="img/mirti.gif" alt="bluebear from animal crossing">
 
