@@ -1,5 +1,5 @@
 ### j'aime bien le javascript et les jeux vidéos 
-
+<img src="https://i.gifer.com/origin/b5/b53732834ed27ae371ac0141867a3924_w200.gif" alt="soinc"/>
 <!--
 **zinabfs/zinabfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
