@@ -6,6 +6,7 @@
 <div align="center">
 
 ## hi i'm `zina`, i like javascript and videogames
+ <img src="img/marty.gif" alt="marty from animal crossing">
 
 </div>
 
@@ -19,25 +20,6 @@
 </a>
 </h3>
 
-<br>
-<hr>
-<br>
-<div align="center">
-
-<img src="img/tarkov.png" alt="tarkov" align="center" height="200">
-</div>
-
-
-<br>
-<br>
-<div align="center">
-<img src="https://profile-counter.glitch.me/zinabfs/count.svg" alt="hit counter" align="center">
-</div>
-<br>
-<div align="center">
-bisou :)
-
-</div>
 <!--
 **zinabfs/zinabfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
