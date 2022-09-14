@@ -14,14 +14,12 @@
 
 <h3 align="center">
 <a href="https://zinabfs.fr/">visit my personal website <br>
-<img src="https://github.com/zinabfs/zinabfs/blob/main/img/zinabfs.gif" alt="portfolio" align="center">
+<img src="img/zinabfs.gif" alt="portfolio" align="center">
 </a>
 </h3>
 
-
-
+<hr>
 <br>
-
 
 <div align="center">
 <img src="img/tarkov.png" alt="tarkov" align="center" height="200">
