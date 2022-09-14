@@ -10,7 +10,6 @@
 </div>
 
 <br>
-<hr>
 <br>
 
 <h3 align="center">
@@ -20,7 +19,7 @@
 </h3>
 
 
-<hr>
+
 <br>
 
 
