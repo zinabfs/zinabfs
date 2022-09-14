@@ -15,7 +15,7 @@
 
 <h3 align="center">
 <a href="https://zinabfs.fr/">visit my personal website <br>
-<img src="img/portfolio.gif" alt="portfolio" align="center">
+<img src="img/zinabfs.gif" alt="portfolio" align="center">
 </a>
 </h3>
 
