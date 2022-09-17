@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-<img src="img/tarkov.png" alt="tarkov" align="center" height="200">
+<img src="img/tarkov.png" alt="tarkov credit : https://www.youtube.com/c/JunckerTarkov" align="center" height="200">
 </div>
 <br>
 <br>
