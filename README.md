@@ -10,9 +10,9 @@
 const zina = {
   pronouns: "she" | "her", 
   who: "aspiring full-stack developer",
-  code: [HTML5, CSS, Javascript, Node, PHP, SQL, C++, C#],
-  tools: [Photoshop, Illustrator, In Design, Adobe XD, Premiere Pro, After Effects],
-  languages: [French, English, German],
+  code: ["HTML5", "CSS", "Javascript", "Node", "PHP", "SQL", "C++", "C#"],
+  tools: ["Photoshop", "Illustrato", "In Design", "Adobe XD", "Premiere Pro", "After Effects"],
+  languages: ["French", "English", "German"],
   personality: {
                 aboutMe: "creative, team worker, productive, love new challenges", 
                 hobbies: "videogames, web development"
