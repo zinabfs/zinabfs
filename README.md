@@ -14,8 +14,8 @@ const zina = {
   tools: ["Photoshop", "Illustrator", "In Design", "Adobe XD", "Premiere Pro", "After Effects"],
   languages: ["French", "English", "German"],
   personality: {
-                aboutMe: "creative, team worker, productive, love new challenges", 
-                hobbies: "videogames, web development"
+                aboutMe: ["creative", "team worker", "productive", "love new challenges"], 
+                hobbies: ["videogames", "web development"]
              },
   
 };
