@@ -8,7 +8,6 @@
 
 <div align="center">
 <img src="img/tarkov.png" alt="tarkov credit : https://www.youtube.com/c/JunckerTarkov" align="center" height="200">
-<h3><a href="https://zinabfs.fr/" style="color: deeppink">pouet</a></h3>
 
 </div>
 
