@@ -13,7 +13,5 @@
 
 <br>
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/zinabfs/count.svg" alt="hit counter" align="center">
 bisou :)
 </div>
